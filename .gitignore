@@ -1,0 +1,11 @@
+*.o
+*.S
+main.elf
+main.hex
+main.lst
+main.map
+junk/
+controller.c
+fuses_high
+fuses_low
+bbb/speak
